@@ -2,6 +2,8 @@
 
 To verify issue [ncc#610](https://github.com/vercel/ncc/issues/610)
 
+**NOTE**: it seems the issue has been fixed in `"@vercel/ncc": "0.27.0"`
+
 * Check out this GitHup repo: https://github.com/tmtron/ncc-ibm-validator
 * `npm install`
 * `ncc run index.ts`  
